@@ -13,7 +13,7 @@ Website: www.dollarstir.com -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title> Mkae Impact | Vidagua Foundation</title>
+	<title> COVID-19 News & Updates | Vidagua</title>
 
 	<!--Favicon-->
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
@@ -66,8 +66,8 @@ Website: www.dollarstir.com -->
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="breadcroumb-title text-center">
-						<h1>Make an <b>Impact</b></h1>
-						<h6><a href="index.php">Home</a> / Make Impact</h6>
+						<h1>COVID-19 News &  <b>Updates</b></h1>
+						<h6><a href="index.php">Home</a> / Make Impact/COVID-19 News & Updates</h6>
 					</div>
 				</div>
 			</div>
@@ -78,61 +78,61 @@ Website: www.dollarstir.com -->
 
     <!-- About Us Area-->
 
-	<div class="about-area section-padding theme-2">
+		<div class="about-area section-padding theme-2">
 
-<div class="container">
-    <div class="row">
-        <div class="col-lg-6 col-md-12">
-            <div class="about-content-area">
-                <div class="section-title">
-                    <!-- <h6>A little Bit More</h6> -->
-                    <h2>Vidagua.  <b>Foundation</b></h2>
-                </div>
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6 col-md-12">
+						<div class="about-content-area">
+							<div class="section-title">
+								<!-- <h6>A little Bit More</h6> -->
+								<h2>COVID-19 News &   <b>Updates</b></h2>
+							</div>
 
-                <p>
-                The national water crisis affects many people in their daily lives–with undrinkable and lead filled water driving the need to help communities where accessing clean drinking water is a challenge. This is a big problem for underprivileged people such as the homeless, students in poorer educational districts and people in developing countries whose choices for drinking water are either contaminated water which can lead to severe illness or no water at all.
-Vidagua Foundation focuses on bringing water to these underprivileged communities both domestically in our United States and internationally. In the United States, Vidagua provides water fountains with filtration systems that remove contaminants to homeless shelters and to schools. Vidagua also brings water to people in developing countries by organizing projects to build wells in remote areas in Africa, Central and South America and the Caribbean.
-Vidagua’s strategic approach is focused on sustainability to ensure that our fountains and wells function well and are well maintained and that the beneficiaries fully participate in the projects and take ownership of the project sustainability. Vidagua has developed a number of sustainability approaches which build on capacity development and the participation of the beneficiaries to ensure that the water is safe to drink now and in the future. <br>
+							<p>
+                            
+                            
+                                We at Vidagua are very sensitive towards the Coronavirus (COVID-19) and are carefully monitoring the Coronavirus (COVID-19) outbreak in our regions of operation. Our top priority is the safety and well-being of our partners, staff, volunteers and the communities we serve.
+                                At this time, Vidagua is following the recommendations of the Centers for Disease Control and Prevention (CDC) and local health agencies and will make all necessary and timely changes based on their updated information.
+							
 
-                
-<a style="color:white;" href="https://pages.donately.com/vidaguafoundation/campaigns" class="main-btn">Donate Now</a>
 
-                </p>
+							</p>
 
-                <!-- <div class="row text-center">
-                    <div class="col-lg-6 col-md-6">
-                        <div class="about-certify">
-                            <i class="las la-hand-holding-heart"></i>
-                            <h5>Our Mission</h5>
-                            <p>Proverty is main vital cause of our society.</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6">
-                        <div class="about-certify">
-                            <i class="las la-hands-helping"></i>
-                            <h5>Our Visson</h5>
-                            <p>delivering clean drinking water to schools, homeless shelters in the United States and in impoverished communities in developing countries. </p>
-                        </div>
-                    </div>
-                </div> -->
-            </div>
-        </div>
-        <div class="col-lg-6">
-            <img src="assets/fp/lv1.jpg" alt="" style="height:500px;">
-        </div>
-    </div>
-</div>
+							<!-- <div class="row text-center">
+								<div class="col-lg-6 col-md-6">
+									<div class="about-certify">
+										<i class="las la-hand-holding-heart"></i>
+										<h5>Our Mission</h5>
+										<p>Proverty is main vital cause of our society.</p>
+									</div>
+								</div>
+								<div class="col-lg-6 col-md-6">
+									<div class="about-certify">
+										<i class="las la-hands-helping"></i>
+										<h5>Our Visson</h5>
+										<p>delivering clean drinking water to schools, homeless shelters in the United States and in impoverished communities in developing countries. </p>
+									</div>
+								</div>
+							</div> -->
+						</div>
+					</div>
+					<div class="col-lg-6">
+						<img src="assets/fp/lv.jpg" alt="" style="height:500px;">
+					</div>
+				</div>
+			</div>
 
-</div>
+		</div>
 
 	<!-- Recent Causes Area-->
 
-	<div class="causes-area section-padding theme-2">
+	<!-- <div class="causes-area section-padding theme-2">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12 text-center">
 					<div class="section-title">
-						<!-- <h6>We are fighting for</h6> -->
+						
 						<h2> <b>Donate</b></h2>
 						<p>Hundreds of thousands of Americans suffer from
 							lead poisoning and millions of children abroad cannot access clean water in their village. You can help us get these people clean water
@@ -142,26 +142,36 @@ Vidagua’s strategic approach is focused on sustainability to ensure that our f
 				</div>
 			</div>
 
-			<?php donation();?>
+			<?php ?>
 
 		</div>
-	</div>
+	</div> -->
+
+
+	<!-- About Us Area-->
+
+
 
 
 	<!-- CTA Area-->
 
-	<div class="cta-area theme-2">
+	<!-- <div class="cta-area theme-2">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-7 text-center">
 					<h2>Lets make the world <br>better <b>together</b></h2>
 				</div>
 				<div  class="col-lg-6 col-md-5 wow fadeInUp animated" data-wow-delay=".2s">
-					<a style="background-color:lightblue;" href="https://volunteersignup.org/events" target="blank" class="main-btn">Become a Volunteer</a>
+					<a style="background-color:lightblue;" href="causes.html#" class="main-btn">Become a Volunteer</a>
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
+
+
+
+
+
 
 	<!-- Footer Area -->
 

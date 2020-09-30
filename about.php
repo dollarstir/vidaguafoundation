@@ -1,3 +1,10 @@
+<!-- Developed by : Frederick Ennin(CEO of Dollarsoft)
+Contact : +233556676471
+Email: kpin463@gmail.com
+Website: www.dollarstir.com -->
+
+
+<?php  include 'core.php';?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,10 +13,13 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title> Charry | Non-profit Charity &amp;Fundraising HTML Template | ThemeForest</title>
+	<title> About Us | Vidagua</title>
 
 	<!--Favicon-->
-	<link rel="icon" href="assets/img/favicon.png" type="image/jpg" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link rel="icon" href="favicon.ico" type="image/x-icon">	
+<!-- Bootstrap CSS -->
+
 	<!-- Bootstrap CSS -->
 	<link href="assets/css/bootstrap.min.css" rel="stylesheet">
 	<!-- Font Awesome CSS-->
@@ -48,97 +58,7 @@
 
 	<!-- Header Area -->
 
-	<div class="header-area">
-		<div class="sticky-area">
-			<div class="navigation">
-				<div class="row">
-					<div class="col-lg-2">
-						<div class="logo">
-							<a class="navbar-brand" href="about.html#"><img src="assets/img/logo.png" alt=""></a>
-						</div>
-					</div>
-					<div class="col-lg-8">
-						<div class="main-menu">
-							<nav class="navbar navbar-expand-lg">
-								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-									<span class="navbar-toggler-icon"></span>
-									<span class="navbar-toggler-icon"></span>
-									<span class="navbar-toggler-icon"></span>
-								</button>
-
-								<div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
-									<ul class="navbar-nav m-auto">
-										<li class="nav-item">
-											<a class="nav-link" href="about.html#">Home +
-												<span class="sub-nav-toggler"> <i class="fa fa-angle-down"></i>
-												</span>
-											</a>
-											<ul class="sub-menu">
-												<li><a href="index.html">Home-1</a></li>
-												<li><a href="index-2.html">Home-2</a></li>
-												<li><a href="index-3.html">Home-3</a></li>
-											</ul>
-										</li>
-										<li class="nav-item">
-											<a class="nav-link active" href="about.html">About</a>
-										</li>
-
-										<li class="nav-item">
-											<a class="nav-link" href="about.html#">Causes +
-											</a>
-											<ul class="sub-menu">
-												<li><a href="causes.html">Causes</a></li>
-												<li><a href="single-causes.html">Causes Details</a></li>
-											</ul>
-
-										</li>
-
-										<li class="nav-item">
-											<a class="nav-link" href="about.html#">Events +
-											</a>
-											<ul class="sub-menu">
-												<li><a href="event.html">Events</a></li>
-												<li><a href="single-event.html">Events Details</a></li>
-											</ul>
-										</li>
-										<li class="nav-item">
-											<a class="nav-link dropdown-toggle" href="about.html#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-												Pages +
-											</a>
-											<ul class="sub-menu">
-												<li><a href="about.html">About us</a></li>
-												<li><a href="program.html">Our Programs</a></li>
-												<li><a href="team.html">Our Volunteer</a></li>
-												<li><a href="portfolio.html">Our Gallery</a></li>
-												<li><a href="faq.html">FAQ</a></li>
-											</ul>
-										</li>
-										<li class="nav-item">
-											<a class="nav-link" href="about.html#">Blog +
-											</a>
-											<ul class="sub-menu">
-												<li><a href="blog.html">Blog</a></li>
-												<li><a href="http://capricorn-theme.net/html/charry/single-news.html">Blog Details</a></li>
-											</ul>
-										</li>
-										<li class="nav-item">
-											<a class="nav-link" href="contact.html">Contact</a>
-										</li>
-									</ul>
-
-								</div>
-							</nav>
-						</div>
-					</div>
-					<div class="col-lg-2 text-right">
-						<div class="header-right-content">
-							<a href="about.html#" class="main-btn">Donate Now</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+	<?php topbar(4);?>
 
 	<!-- Breadcroumb Area -->
 
@@ -161,9 +81,10 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6">
-					<div class="about-image">
-						<img src="assets/img/about-us.jpg" alt="">
-					</div>
+					<!-- <div class="about-image">
+						
+                    </div> -->
+                    <img src="assets/fp/abt.jpg" alt="">
 				</div>
 				<div class="col-lg-5">
 					<div class="about-content">
@@ -172,9 +93,14 @@
 							<h2>We serve the <b>huminity</b></h2>
 						</div>
 
-						<p>Lance was born on the Island of Occidental Mindoro, one of many thousands of Islands in the Philippines. His home town of Santa Cruz is lucky enough to have a community hospital but not the specialized plastic surgery teams needed to repair his Cleft Lip. Unfortunately,</p>
+						<p>
+                            Vidagua is a U.S. based, non-profit organization that focuses on delivering clean drinking water to schools, homeless shelters in the United States and in impoverished communities in developing countries.
+                            Vidagua is based on the promise that water is life. It translates from Spanish words of ​agua​ (water) and ​vida​ (life) and is based on a principle that water is at the core of sustainable human development and is critical for socio-economic and human survival. In a nutshell, safe drinking water is vital for healthy life.<br>
+                            Indeed many cities in America have lead in drinking water which, in some cases, has poisoned children. A few years ago, the city of Flint, Michigan, burst into the news after children were exposed to lead water. Similar incidents happened in other cities. This prompted the founding of The Vidagua Foundation.<br>
+                            Vidagua’s mission also extends to developing countries where it builds wells for safe drinking waters in underprivileged rural communities in Africa, Latin and Central America, the Caribbean and beyond. Vidagua thus contributes to improving health, welfare and productivity of the populations in the countries it works.
+                        </p>
 
-						<a href="about.html#" class="main-btn">Discover More</a>
+						<!-- <a href="about.html#" class="main-btn">Discover More</a> -->
 					</div>
 				</div>
 			</div>
@@ -194,12 +120,12 @@
 							<i class="flaticon-donation-1"></i>
 						</div>
 						<h5>Our Mission</h5>
-						<p>Poor people live in unsafe place consectetur adipisicing </p>
+						<p>delivering clean drinking water to schools, homeless shelters in the United States and in impoverished communities in developing countries. </p>
 
 					</div>
 				</div>
 
-				<div class="col-lg-4 col-md-6 col-sm-6">
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
 					<div class="single-feature-item">
 						<div class="feature-icon">
 							<i class="flaticon-money"></i>
@@ -208,7 +134,7 @@
 						<p>Don't hungry any people dolor amet consectetur adipisicing elit </p>
 
 					</div>
-				</div>
+				</div> -->
 
 				<div class="col-lg-4 col-md-6 col-sm-6">
 					<div class="single-feature-item">
@@ -216,7 +142,7 @@
 							<i class="flaticon-charity"></i>
 						</div>
 						<h5>Our Vision</h5>
-						<p> Free pure food &amp; clean water distributing amonng the helpless</p>
+						<p> focuses on delivering clean drinking water to schools, homeless shelters in the United States and in impoverished communities in developing countries.</p>
 
 					</div>
 				</div>
@@ -230,7 +156,7 @@
 
 	<!--Programs Area -->
 
-	<div class="program-area gray-bg section-padding">
+	<!-- <div class="program-area gray-bg section-padding">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12 text-center">
@@ -288,11 +214,11 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 
 	<!-- Acheivement Area -->
 
-	<div class="achievement-area">
+	<!-- <div class="achievement-area">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-3 col-md-3 col-sm-6">
@@ -321,7 +247,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 
 	<!-- Volunteer Area -->
 
@@ -427,7 +353,7 @@
 			<div class="row">
 				<div class="col-lg-12 text-center">
 					<h2>A very small <b>donation</b> <br>can save the world</h2>
-					<a href="about.html#" class="main-btn">Become a Donor</a>
+					<a href="donate.php" class="main-btn">Become a Donor</a>
 				</div>
 			</div>
 		</div>
@@ -436,10 +362,17 @@
 
 	<!-- Sponsor Area -->
 
-	<div class="client-area section-padding padding-top-0">
+	<div class="client-area theme-2 section-padding">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-lg-12 text-center">
+					<div class="section-title">
+						<!-- <h6>Everything Changes</h6> -->
+						<h2>Awards &  <b>Certifications</b></h2>
+						Our website and cause has been certified by many agencies. These are a few agencies that have certified our website.
+					</div>
+				</div>	
+				<!-- <div class="col-lg-12">
 					<div class="logo-carousel owl-carousel">
 						<div class="single-logo-wrapper">
 							<div class="logo-inner-item">
@@ -477,7 +410,9 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div> -->
+
+				<?php clients();?>
 			</div>
 		</div>
 	</div>
@@ -485,69 +420,7 @@
 
 	<!-- Footer Area -->
 
-	<footer class="footer-area">
-		<div class="container">
-			<div class="footer-up">
-				<div class="row">
-					<div class="col-lg-3 col-md-6 col-sm-12">
-						<div class="logo">
-							<a class="navbar-brand" href="about.html#"><img src="assets/img/logo-white.png" alt=""></a>
-						</div>
-						<p>A fresh and modern theme <br>for all charity</p>
-
-						<div class="contact-info">
-							<h5>Contact Us</h5>
-							<p>123 Liverpool Street <br> United Kingdom-1205 </p>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-6 com-sm-12">
-						<h5>Useful Links</h5>
-						<ul>
-							<li>
-								<a href="about.html#">Home</a>
-								<a href="about.html#">About Us</a>
-								<a href="about.html#">Our Causes</a>
-								<a href="about.html#">Our Events</a>
-								<a href="about.html#">Contact</a>
-							</li>
-						</ul>
-					</div>
-					<div class="col-lg-3 col-md-6 col-sm-12">
-						<h5>Our Causes</h5>
-						<ul>
-							<li>
-								<a href="about.html#">Water Purify</a>
-								<a href="about.html#">Food Collect</a>
-								<a href="about.html#">Health Fund</a>
-								<a href="about.html#">Free Eduction</a>
-								<a href="about.html#">Nutritution Fact</a>
-							</li>
-						</ul>
-					</div>
-					<div class="col-lg-3 col-md-6">
-						<div class="subscribe-form">
-							<h5>Subscribe</h5>
-							<p>Charry is a nonproﬁt organization supported by community leaders,</p>
-							<form action="index.html">
-								<input type="email" placeholder="Email">
-								<button><i class="fa fa-paper-plane"></i></button>
-							</form>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="footer-bottom">
-				<div class="row justify-content-center align-items-center">
-					<div class="col-lg-6 col-md-6 col-sm-12">
-						<p class="copyright-line">© 2020 Charry. All rights reserved.</p>
-					</div>
-					<div class="col-lg-6 col-md-6 col-sm-12">
-						<p class="privacy">Privacy Policy | Terms &amp; Conditions</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</footer>
+	<?php footer();?>
 
 	<!-- Scroll Top Area -->
 

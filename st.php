@@ -13,7 +13,7 @@ Website: www.dollarstir.com -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title> Donate | Vidagua</title>
+	<title> Students & Teachers | Vidagua</title>
 
 	<!--Favicon-->
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
@@ -66,8 +66,8 @@ Website: www.dollarstir.com -->
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="breadcroumb-title text-center">
-						<h1>Donate <b>Now</b></h1>
-						<h6><a href="index.php">Home</a> / Make Impact/Donation</h6>
+						<h1> Students & <b>Teachers</b></h1>
+						<h6><a href="index.php">Home</a> / Make Impact/Students & Teachers</h6>
 					</div>
 				</div>
 			</div>
@@ -86,13 +86,16 @@ Website: www.dollarstir.com -->
 						<div class="about-content-area">
 							<div class="section-title">
 								<!-- <h6>A little Bit More</h6> -->
-								<h2>Vidagua.  <b>Foundation</b></h2>
+								<h2>  <b>Students & Teachers</b></h2>
 							</div>
 
 							<p>
-							We appreciate your interest in Vidagua and your willingness to support our mission in bringing clean water to the people who need it.
-								We focus on bringing clean water to homeless shelters and to schools in poorer educational districts that do not have access to it. Vidagua also organizes outreach to areas in developing countries that need clean drinking water.
-							Help us on our mission to alleviate waterborne disease, illness and death through providing clean drinking water access in areas of America and the world with unsterile water.
+							Schools can easily participate in our mission as well. ​Contact us if your
+                            School is interested in serving as volunteers at one of our locations.
+                            Vidagua setup Vidagua.Club​, a one stop-shop for schools and groups which wish to participate in our effort. Please visit ​www.vidagua.club to register your project and work within our platform or click below:
+
+                                <a style="color:white;" href="https://vidaguaclub.dollarstir.com" class="main-btn">Contact Us</a>
+
 							
 
 
@@ -117,99 +120,18 @@ Website: www.dollarstir.com -->
 						</div>
 					</div>
 					<div class="col-lg-6">
-						<img src="assets/fp/wt3.jpg" alt="" style="height:500px;">
+						<img src="assets/fp/st.jpg" alt="" style="height:400px;">
 					</div>
 				</div>
 			</div>
 
 		</div>
 
-	<!-- Recent Causes Area-->
-
-	<div class="causes-area section-padding theme-2">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-12 text-center">
-					<div class="section-title">
-						<!-- <h6>We are fighting for</h6> -->
-						<h2> <b>Donate</b></h2>
-						<p>Hundreds of thousands of Americans suffer from
-							lead poisoning and millions of children abroad cannot access clean water in their village. You can help us get these people clean water
-							by donating here
-						</p>
-					</div>
-				</div>
-			</div>
-
-			<?php donation();?>
-
-		</div>
-	</div>
+	
 
 
-	<!-- About Us Area-->
 
-<div class="about-area section-padding theme-2">
-
-<div class="container">
-	<div class="row">
-		<div class="col-lg-6 col-md-12">
-			<div class="about-content-area">
-				<div class="section-title">
-					<!-- <h6>A little Bit More</h6> -->
-					<h2>Give to a.  <b>campaign</b></h2>
-				</div>
-
-				<p>
-				You can also give to a specific project.
-				If you would like to donate to a specific project, program, or area don’t hesitate to donate and in doing so, you will be recognized as the official project sponsor for that specific campaign or water project.
-				Your contribution can also go to a community where a project is not currently in progress. By doing this you can make it easier for us
-				
-
-
-				</p>
-
-				<!-- <div class="row text-center">
-					<div class="col-lg-6 col-md-6">
-						<div class="about-certify">
-							<i class="las la-hand-holding-heart"></i>
-							<h5>Our Mission</h5>
-							<p>Proverty is main vital cause of our society.</p>
-						</div>
-					</div>
-					<div class="col-lg-6 col-md-6">
-						<div class="about-certify">
-							<i class="las la-hands-helping"></i>
-							<h5>Our Visson</h5>
-							<p>delivering clean drinking water to schools, homeless shelters in the United States and in impoverished communities in developing countries. </p>
-						</div>
-					</div>
-				</div> -->
-			</div>
-		</div>
-		<div class="col-lg-6">
-			<img src="assets/fp/lv1.jpg" alt="" style="height:500px;">
-		</div>
-	</div>
-</div>
-
-</div>
-
-
-	<!-- CTA Area-->
-
-	<div class="cta-area theme-2">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-6 col-md-7 text-center">
-					<h2>Lets make the world <br>better <b>together</b></h2>
-				</div>
-				<div  class="col-lg-6 col-md-5 wow fadeInUp animated" data-wow-delay=".2s">
-					<a style="background-color:lightblue;" href="https://volunteersignup.org/events" target="blank" class="main-btn">Become a Volunteer</a>
-				</div>
-			</div>
-		</div>
-	</div>
+	
 
 
 
